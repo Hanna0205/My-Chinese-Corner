@@ -1,0 +1,178 @@
+{
+ "type": "han-notebook",
+ "books": [
+  {
+   "id": "b-hn1",
+   "name": "Giáo trình Hán ngữ – Quyển 1",
+   "open": true,
+   "lessons": [
+    {
+     "id": "l-1",
+     "name": "Bài 1 – Chào hỏi",
+     "words": [
+      {
+       "id": "w-ni",
+       "hanzi": "你",
+       "pinyin": "nǐ",
+       "hanviet": "nhĩ",
+       "pos": "đại từ",
+       "meaning": "bạn, anh, chị\nngươi (cách xưng hô thân mật)",
+       "examples": [
+        {
+         "zh": "你是学生吗？",
+         "py": "Nǐ shì xuésheng ma?",
+         "vi": "Bạn là học sinh à?"
+        }
+       ],
+       "mnemonic": "亻(người) + 尔: người đứng trước mặt mình chính là “bạn”.",
+       "confuse": "你 (nǐ): bạn. 您 (nín): ngài, cách nói lịch sự hơn.",
+       "note": "Dùng cho cả nam và nữ. Khi nói với người lớn tuổi hoặc cần lịch sự thì đổi sang 您.",
+       "image": "",
+       "audio": ""
+      },
+      {
+       "id": "w-hao",
+       "hanzi": "好",
+       "pinyin": "hǎo",
+       "hanviet": "hảo",
+       "pos": "tính từ",
+       "meaning": "tốt, hay\nkhoẻ",
+       "examples": [
+        {
+         "zh": "你好！",
+         "py": "Nǐ hǎo!",
+         "vi": "Xin chào!"
+        },
+        {
+         "zh": "今天天气很好。",
+         "py": "Jīntiān tiānqì hěn hǎo.",
+         "vi": "Hôm nay thời tiết rất đẹp."
+        }
+       ],
+       "mnemonic": "女 (phụ nữ) + 子 (con): người mẹ có con là điều tốt đẹp.",
+       "confuse": "",
+       "note": "好 còn đọc là hào khi mang nghĩa “thích” (爱好 àihào: sở thích).",
+       "image": "",
+       "audio": ""
+      },
+      {
+       "id": "w-xiexie",
+       "hanzi": "谢谢",
+       "pinyin": "xièxie",
+       "hanviet": "tạ tạ",
+       "pos": "động từ",
+       "meaning": "cảm ơn",
+       "examples": [
+        {
+         "zh": "谢谢你的帮助。",
+         "py": "Xièxie nǐ de bāngzhù.",
+         "vi": "Cảm ơn sự giúp đỡ của bạn."
+        }
+       ],
+       "mnemonic": "讠(lời nói) ở bên trái: nói lời cảm ơn.",
+       "confuse": "",
+       "note": "Đáp lại “谢谢” thường dùng 不客气 (bú kèqi): đừng khách sáo.",
+       "image": "",
+       "audio": ""
+      }
+     ],
+     "grammar": [
+      {
+       "id": "g-shi",
+       "title": "Câu chữ 是",
+       "definition": "Dùng 是 để nối chủ ngữ với một danh từ, nghĩa là “là”.",
+       "usage": "Đứng giữa chủ ngữ và danh từ. Phủ định thêm 不 trước 是. Câu hỏi thêm 吗 ở cuối câu.",
+       "formula": "Khẳng định: S + 是 + N\nPhủ định: S + 不是 + N\nNghi vấn: S + 是 + N + 吗？",
+       "notes": "Không dùng 是 trước tính từ thông thường (nói 她很高, không nói 她是很高).",
+       "note": "",
+       "examples": [
+        {
+         "zh": "我是学生。",
+         "py": "Wǒ shì xuésheng.",
+         "vi": "Tôi là học sinh."
+        },
+        {
+         "zh": "他不是老师。",
+         "py": "Tā bú shì lǎoshī.",
+         "vi": "Anh ấy không phải giáo viên."
+        },
+        {
+         "zh": "你是越南人吗？",
+         "py": "Nǐ shì Yuènán rén ma?",
+         "vi": "Bạn là người Việt Nam à?"
+        }
+       ]
+      }
+     ],
+     "readings": [
+      {
+       "id": "r-gap",
+       "title": "自我介绍",
+       "text": "你好！我是明。\n你是学生吗？我是学生。\n谢谢你！",
+       "trans": "Xin chào! Tôi là Minh.\nBạn là học sinh à? Tôi là học sinh.\nCảm ơn bạn!",
+       "audio": "",
+       "notes": "Đoạn hội thoại làm quen đơn giản. Chú ý 吗 ở cuối câu hỏi và 是 nối chủ ngữ với danh từ.",
+       "vocab": [
+        {
+         "hanzi": "学生",
+         "pinyin": "xuésheng",
+         "meaning": "học sinh",
+         "note": "Từ ghép: 学 (học) + 生 (sinh)"
+        }
+       ],
+       "questions": [
+        {
+         "question": "Người nói tên là gì?",
+         "options": "A. 明\nB. 好\nC. 谢",
+         "answer": "A",
+         "explanation": "Câu đầu: 我是明 (Tôi là Minh)."
+        }
+       ]
+      }
+     ],
+     "notes": [
+      {
+       "id": "n-meo",
+       "title": "Mẹo nhớ bài 1",
+       "text": "Học theo cặp: 你好 (xin chào) và 谢谢 (cảm ơn) là hai câu dùng nhiều nhất.\nĐọc to từng từ, nghe phát âm rồi nhắc lại."
+      },
+      {
+       "id": "n-loi",
+       "title": "Lỗi hay gặp",
+       "text": "Người Việt dễ đọc nhầm thanh 3 (nǐ, hǎo): hạ giọng xuống rồi nâng lên.\nKhi hai thanh 3 đi liền nhau (你好), chữ đầu đọc thành thanh 2: ní hǎo."
+      }
+     ]
+    },
+    {
+     "id": "l-2",
+     "name": "Bài 2 – Bản thân",
+     "words": [
+      {
+       "id": "w-wo",
+       "hanzi": "我",
+       "pinyin": "wǒ",
+       "hanviet": "ngã",
+       "pos": "đại từ",
+       "meaning": "tôi, mình",
+       "examples": [
+        {
+         "zh": "我是学生。",
+         "py": "Wǒ shì xuésheng.",
+         "vi": "Tôi là học sinh."
+        }
+       ],
+       "mnemonic": "",
+       "confuse": "",
+       "note": "Số nhiều: 我们 (wǒmen): chúng tôi, chúng ta.",
+       "image": "",
+       "audio": ""
+      }
+     ],
+     "grammar": [],
+     "readings": [],
+     "notes": []
+    }
+   ]
+  }
+ ]
+}
